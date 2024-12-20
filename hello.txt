@@ -1,2 +1,2 @@
-Hello Git hot-fix
+Hello Git
 Hello Git
